@@ -1,0 +1,1 @@
+# safe-rabbit-mq-management
