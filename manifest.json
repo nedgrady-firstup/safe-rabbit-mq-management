@@ -18,7 +18,7 @@
     {
       "run_at": "document_end",
       "css": ["remove-delete-queue.css"],
-      "js": ["remove-purge-queue.js", "remove-move-messages.js"],
+      "js": ["remove-purge-queue.js", "remove-move-messages.js", "suggest-move-to-production.js"],
       "matches": ["https://*.mq.eu-west-1.amazonaws.com/", "https://*.mq.us-east-1.amazonaws.com/"]
     }
   ]
